@@ -1,12 +1,10 @@
 # Ruby
 ## Ruby version 2.4.0 or above, including all development headers (ruby version can be checked by running ruby -v)
-<code> 
-  brew install ruby 
-  export PATH=/usr/local/opt/ruby/bin:$PATH
-  which ruby
-# /usr/local/opt/ruby/bin/ruby
-  ruby -v
-</code>
+
+  <code> brew install ruby </code>
+  <code> export PATH=/usr/local/opt/ruby/bin:$PATH </code>
+  <code> which ruby </code>
+  <code> ruby -v </code>
 ## RubyGems (which you can check by running gem -v)
 ## GCC and Make (in case your system doesn’t have them installed, which you can check by running gcc -v,g++ -v and make -v in your system’s command line interface)
 
