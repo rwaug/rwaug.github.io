@@ -1,7 +1,9 @@
 # Ruby
 - Ruby version 2.4.0 or above, including all development headers (ruby version can be checked by running ruby -v)
-  <code> brew install ruby </code>
-  <code> export PATH=/usr/local/opt/ruby/bin:$PATH </code>
+  <quote> 
+   brew install ruby 
+   export PATH=/usr/local/opt/ruby/bin:$PATH 
+  </quote>
   <code> which ruby </code>
   <code> ruby -v </code>
 - RubyGems (which you can check by running gem -v)
@@ -10,11 +12,11 @@
 # Jekyll
 - Install a full Ruby development environment
 - Install Jekyll and bundler gems
-<code> gem install jekyll bundler </code>
+  <code> gem install jekyll bundler </code>
 - Create a new Jekyll site at ./myblog
-<code> jekyll new myblog </code>
+  <code> jekyll new myblog </code>
 - Change into your new directory
-<code> cd myblog </code>
+  <code> cd myblog </code>
 - Build the site and make it available on a local server
-<code> bundle exec jekyll serve </code>
+  <code> bundle exec jekyll serve </code>
 - Now browse to http://localhost:4000
