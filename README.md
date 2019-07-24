@@ -9,13 +9,13 @@
 ## GCC and Make (in case your system doesn’t have them installed, which you can check by running gcc -v,g++ -v and make -v in your system’s command line interface)
 
 # Jekyll
-## Install a full Ruby development environment
-## Install Jekyll and bundler gems
+- Install a full Ruby development environment
+- Install Jekyll and bundler gems
 <code> gem install jekyll bundler </code>
-## Create a new Jekyll site at ./myblog
+- Create a new Jekyll site at ./myblog
 <code> jekyll new myblog </code>
-## Change into your new directory
+- Change into your new directory
 <code> cd myblog </code>
-## Build the site and make it available on a local server
+- Build the site and make it available on a local server
 <code> bundle exec jekyll serve </code>
-## Now browse to http://localhost:4000
+- Now browse to http://localhost:4000
