@@ -1,4 +1,7 @@
 # Ruby
+## Ruby version 2.4.0 or above, including all development headers (ruby version can be checked by running ruby -v)
+## RubyGems (which you can check by running gem -v)
+## GCC and Make (in case your system doesn’t have them installed, which you can check by running gcc -v,g++ -v and make -v in your system’s command line interface)
 
 # Jekyll
 ## Install a full Ruby development environment
