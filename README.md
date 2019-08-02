@@ -25,3 +25,4 @@
 - cd /blog
 - gem 'jekyll-admin', '~> 0.8.1'
 - bundle install
+- bundle exec jekyll serve
