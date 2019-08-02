@@ -20,3 +20,8 @@
 - Build the site and make it available on a local server
   <code> bundle exec jekyll serve </code>
 - Now browse to http://localhost:4000
+
+# jekyll-admin
+- cd /blog
+- gem 'jekyll-admin', '~> 0.8.1'
+- bundle install
